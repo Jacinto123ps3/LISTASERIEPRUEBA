@@ -1,9 +1,41 @@
-#EXTM3U    Receta para un asesino
-#EXTINF:-1,1x01 Parte 1
-https://cloud-s76-91-48-193.spcdn.cc/h75bixxje7e2alhulobt4iu4dfnnmz3z445rpvdkha3zpkw7k52zgpqp3eha/v.mp4
-#EXTINF:-2,1x02 Parte 2
-https://908357361.tapecontent.net/radosgw/wJJq0z2j8RHlgw/mR7zo9WY19C4rqLrgTrwpvHWLQHrBcQ7VihLhjIhe5ql7-TtaJAPkdgSZSb_GQKyGHqP_xYl58hE5JGNvCE2UBqXTN4Uxea2KC7ZGAGWn-nrD6MbcSlZa01oW21NuYhuochOSbCeNa3cOCVuX7gshQApYfz6oFE16ww_acDDXya6LGwLEQgMRJcR9R0B-GzHk76stK9EDTzJnFlPb526dOFkoZ0RIW0k2UhGrOJoiFr6TBJWP87TXoWAGIpgb8MTGnpqaLCghaZWPsSfxS0ZjXarh-9adi9MMG-auQ/c.cnd.1x02.mp4?stream=1
-#EXTINF:-3,1x03 Parte 3
-https://2475154628.tapecontent.net/radosgw/8zomreMB1OfowmA/p5bTQJEfFkSKAlX74bVMtE34y3kFE06S34qrbq3jpE5-yZvRyas0OEDGstK8IVe2a5o_4d6afp3EkuAdRA6EzB8Kknxzf_8wmEsLoHa-Qc94ystr8lse_-kl4yQrzAgAzMESzHqrmQejaVYMLMaP4Hl7OMfUaJ7vb5I5pBBrRTPf3Dp4O66BhLJqTNecK9e6Gw0amyGBWflLBnRpKo07wyCKaVagKtEfBFfh0FSz_usX8AbilAUFKqes5JGunidZPjxew3noVrYQtPaLZjV6IJ9mO54YqpsRTgleSw/c.cnd.1x03.mp4?stream=1
-#EXTINF:-4,1x04 Parte 4
-https://filemoon.to/d/rcg6lrnqf9mm/Ver_Receta_para_un_asesinato_1x4_online_en_castellano_latino_subtitulado_espa_ol_temporada_1_episodio_4_Receta_para_un_asesinato_castellano_latino_subtitulado_HDFull.tv.mp4
+{
+
+"name": "Series",
+
+"author": "Jacinto123ps3",
+
+"image": "https://media.tenor.com/QeO8SEgM4DcAAAAC/uchiha-sharingan.gif",
+
+"url": "https://listaserieprueba.vercel.app/RECETAS.m3u",
+
+"telegram": "",
+
+"info": "Lista",
+
+"groups":
+
+             [
+
+ 
+
+                          {
+
+                          "name": "RECETAS PARA UN ASESINATO",
+
+                          "image": "https://pics.filmaffinity.com/the_8_show-257378497-large.jpg",
+
+                          "url": "https://filemoon.to/d/rcg6lrnqf9mm",
+
+                          "info": "bY Jacinto123ps3",
+
+                          "import": false
+
+                          },
+
+                         
+
+ 
+
+             ]
+
+}
